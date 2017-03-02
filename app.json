@@ -1,15 +1,5 @@
 {
-	"name": "Torrent Streamer",
+	"name": "Personal Storage",
 	"website": "https://github.com/parveenbhadoo/torrent-streamer",
 	"repository": "https://github.com/parveenbhadoo/torrent-streamer",
-	"env": {
-		"TITLE": {
-			"description": "Optionally set the title of this instance (defaults to 'Torrent Streamer')",
-			"required": false
-		},
-		"AUTH": {
-			"description": "Optional HTTP authentication in the form user:password",
-			"required": false
-		}
-	}
 }
